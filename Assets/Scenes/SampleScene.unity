@@ -457,6 +457,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9de8bf2a6e671e24787ed983d3fc459f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nbr_apelle: 0
   femmeownedstates: {fileID: 1083948505}
 --- !u!4 &691445452
 Transform:
@@ -687,7 +688,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.4056604, g: 0.4056604, b: 0.4056604, a: 0.87058824}
+  m_Color: {r: 0.5943396, g: 0.5943396, b: 0.5943396, a: 0.87058824}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -840,6 +841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29591f4883bd1084c988acbae047f545, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  stat: 0
   wife: {fileID: 691445451}
   txt_femme: {fileID: 60758003}
   etat: 
